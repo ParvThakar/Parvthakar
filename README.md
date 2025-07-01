@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parv Thakar</h1>
-<h3 align="center">A passionate Computer Engineering student from India.</h3>
+<h3 align="center">A passionate Computer Engineering student from India.</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parvthakar&label=Profile%20views&color=0e75b6&style=flat" alt="parvthakar" /> </p>
 
 - 🌱 I’m currently learning **RBMS,CN,OS,DS**
 
