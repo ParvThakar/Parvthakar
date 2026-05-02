@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Computer Engineering student from India.</h3><br>
 
 
-- 🌱 I’m currently learning **RBMS,CN,OS,DS**
-
-- 👯 I’m looking to collaborate on **Web designing**
-
-- 💬 Ask me about **Basic Python, C or HTML, Bootstrap and CSS**
+- 👯 I’m looking to collaborate on **AI/ML**
 
 - 📫 How to reach me **Parvthakar@gmail.com**
 
