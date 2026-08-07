@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Parv Thakar</h1>
+<h1 align="center">Hi ✌️, I'm Parv Thakar</h1>
 <h3 align="center">A passionate Computer Engineering student from India.</h3><br>
 
 
