@@ -1,4 +1,4 @@
-<h1 align="center">Hi ✌️, I'm Parv Thakar</h1>
+<h1 align="center">Wsp ✌️, I'm Parv Thakar</h1>
 <h3 align="center">A passionate Computer Engineering student from India.</h3><br>
 
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **Parvthakar@gmail.com**
 
-- ⚡ Fun fact **I’m a 1000-rated chess player on chess.com—sharp on the board and always leveling up.**
+- ⚡ Fun fact **I’m a 1500-rated chess player on lichess—sharp on the board and always leveling up.**
 
 
 <h3 align="left">Languages and Tools:</h3>
