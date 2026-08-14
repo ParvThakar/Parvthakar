@@ -6,8 +6,7 @@
 
 - 📫 How to reach me **thakarparv0097@gmail.com** 
 
-- ⚡ Fun fact **I’m a 1500-rated chess player on lichess—sharp on the board and always leveling up.**
-
+- ⚡ Fun fact **I’m a 1500-rated chess player on [lichess](https://lichess.org/@/urnothimbro)—sharp on the board and always leveling up.**
 
 <h3 align="left">Languages and Tools:</h3>
 
