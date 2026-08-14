@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **AI/ML**
 
-- 📫 How to reach me **Parvthakar@gmail.com**
+- 📫 How to reach me **parvthakar@gmail.com**
 
 - ⚡ Fun fact **I’m a 1500-rated chess player on lichess—sharp on the board and always leveling up.**
 
