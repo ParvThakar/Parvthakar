@@ -102,7 +102,7 @@
   </a>
 
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/huggingface/huggingface-original.svg" alt="huggingface" width="40" height="40"/>
-  </a>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+</a>
 
 </p>
