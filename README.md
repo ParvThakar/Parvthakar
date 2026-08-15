@@ -1,104 +1,234 @@
-<h1 align="center">Wsp ✌️, I'm Parv Thakar</h1>
-<h3 align="center">A passionate Computer Engineering student from India.</h3><br>
 
 
-- 👯 I’m looking to collaborate on **AI/ML**
+<div align="center">
 
-- 📫 How to reach me **thakarparv0097@gmail.com** 
 
-- ⚡ Fun fact **I’m a 1500-rated chess player on [lichess](https://lichess.org/@/urnothimbro)—sharp on the board and always leveling up.**
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">Wsp ✌️, I'm Parv Thakar</h1> <h3 align="center">A passionate Computer Engineering student from India.</h3><br>
+
+<p>
+<a href="https://github.com/ParvThakar">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/parv-thakar/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="https://lichess.org/@/urnothimbro">
+<img src="https://img.shields.io/badge/Lichess-111111?style=for-the-badge&logo=lichess&logoColor=white" />
+</a>
+</p>
+
+</div>
+
+My current interests revolve around:
+
+* 🤖 AI / Machine Learning
+* 🧠 Large Language Models
+* 🛠️ Local AI & model experimentation
+* 🌐 Full-stack web development
+* ⚙️ Developer tools & workflows
+* 🎨 Modern interfaces & UX
+* 🔬 Practical experimentation
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+---
+
+## `tech stack`
+
+### Languages
 
 <p align="left">
+<img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css,php" />
+</p>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
+### Frontend
 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+</p>
 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
+### Backend
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
+### Databases
 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
+### AI / ML
 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Unsloth-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" />
+<img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/llama.cpp-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GGUF-111111?style=for-the-badge" />
+</p>
 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
+### Tools
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,npm" />
+<img src="https://img.shields.io/badge/pnpm-111111?style=for-the-badge&logo=pnpm&logoColor=F69220" />
+<img src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+<img src="https://img.shields.io/badge/Google%20Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4" />
+</p>
 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
+---
 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
+## `ai lab`
 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+One of the areas I enjoy most is going beyond simply *calling* an AI API.
 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
+I've experimented with the pipeline around local language models:
 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+```text
+Dataset
+   ↓
+Fine-Tuning
+   ↓
+LoRA
+   ↓
+Model Conversion
+   ↓
+GGUF
+   ↓
+Quantization
+   ↓
+Ollama
+   ↓
+Local Inference
+```
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
+Things I've worked with include:
 
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/>
-  </a>
+**PyTorch • Transformers • Hugging Face • Unsloth • LoRA • llama.cpp • GGUF • Quantization • Ollama • Gemini • Groq • OpenAI APIs • Speech-to-Text • Text-to-Speech**
 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
+The fun part is figuring out how all the pieces fit together.
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
+---
 
+## `featured projects`
 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  </a>
+### 🧠 DeepSeek-FineTuner
 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
+A practical exploration of **LLM fine-tuning and local inference**.
 
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+Focused on adapting a coding-oriented language model and taking it through a local deployment pipeline.
+
+**Stack / Concepts**
+
+`Python` `Unsloth` `LoRA` `GGUF` `llama.cpp` `Q5_K_M` `Ollama` `Local Inference`
+
+<a href="https://github.com/ParvThakar/DeepSeek-FineTuner">
+<img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github" />
 </a>
 
-</p>
+---
+
+### ⚡ QwenCoder
+
+A coding-focused **Qwen2.5-Coder** experimentation project built around clean, direct coding responses and local model workflows.
+
+**Stack / Concepts**
+
+`Qwen2.5-Coder` `LLMs` `Ollama` `Local AI` `Model Configuration`
+
+<a href="https://github.com/ParvThakar/QwenCoder">
+<img src="https://img.shields.io/badge/View%20Repository-111111?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+### 🗣️ Paresh
+
+A personal desktop AI assistant combining a custom interface with conversational and voice capabilities.
+
+Built around experimentation with **LLMs, speech recognition, text-to-speech, APIs, and desktop UI development**.
+
+**Stack / Concepts**
+
+`Python` `PySide6` `Gemini` `OpenAI` `Groq` `ElevenLabs` `RealtimeSTT` `STT` `TTS`
+
+---
+
+### 🌐 Web Projects
+
+I've also worked on practical web applications involving:
+
+`HTML` `CSS` `Bootstrap` `JavaScript` `PHP` `XAMPP` `React` `Node.js` `Express` `MongoDB`
+
+I enjoy moving from a simple idea → interface → backend → database → debugging everything that inevitably goes wrong.
+
+---
+
+## `currently exploring`
+
+```text
+AI Engineering
+████████████████████░░
+
+Local LLMs
+████████████████████░░
+
+Model Fine-Tuning
+███████████████████░░░
+
+Full-Stack Architecture
+██████████████████░░░░
+
+Developer Tooling
+██████████████████░░░░
+
+Cloud & Systems
+███████████████░░░░░░░
+```
+
+Currently diving deeper into:
+
+**Advanced AI engineering • local LLM workflows • model fine-tuning • agentic systems • backend architecture • system design • cloud technologies • developer tooling**
+
+---
+
+# ♞ `the other side of the terminal`
+
+<div align="center">
+
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Chess_black_knight.svg" width="360" alt="Large black chess knight" />
+
+<br/>
+
+### **1500-rated on Lichess**
+
+**Sharp on the board. Curious in the code.**
+
+<a href="https://lichess.org/@/urnothimbro">
+<img src="https://img.shields.io/badge/Play%20with%20me%20on%20Lichess-111111?style=for-the-badge&logo=lichess&logoColor=white" />
+</a>
+
+</div>
+
+> I like chess for the same reason I like programming:
+> **the interesting part is usually what happens three moves ahead.**
+
+---
+
+<a href="https://github.com/ParvThakar">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/parv-thakar/">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<br/><br/>
+
